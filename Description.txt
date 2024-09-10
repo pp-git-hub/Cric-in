@@ -1,0 +1,9 @@
+|---------------------------------------------------------------|
+|----------------------------Cric-In----------------------------|
+|---------------------------------------------------------------|
+
+===========================Description===========================
+-> It is a Console Based Cricket Game.
+-> Having 2 teams of four players each.
+-> Having two innings for each team.
+->Rules will be displayed when running the .exe file.
